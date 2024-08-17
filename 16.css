@@ -1,0 +1,78 @@
+header{
+    background-color: red;
+    width:100%  ;
+    padding: 20px;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: larger;
+    position: fixed;
+    z-index: 100;
+
+}
+.images {
+    position: relative;
+}
+.A{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    padding: 20px;
+    
+}
+.B{
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    padding: 20px;
+}
+.C{
+    position: absolute;
+    top: 250px;
+    left: 20px;
+    padding: 20px;
+
+}
+.D{
+    position: absolute;
+    top: 250px;
+    right: 20px;
+    padding: 20px; 
+}
+
+.E{
+    position: absolute;
+    top: 450px;
+    left: 20px;
+    padding: 20px;
+    
+}
+.F{
+    position: absolute;
+    top: 450px;
+    right: 20px;
+    padding: 20px;
+}
+.G{
+    position: absolute;
+    top: 650px;
+    left: 20px;
+    padding: 20px;
+
+}
+.H{
+    position: absolute;
+    top: 650px;
+    right: 20px;
+    padding: 20px;
+  
+}
+.I{
+    position: absolute;
+    top: 300px;
+    left: 35%;
+}
+
+.I img {
+    border-radius: 15px;
+}
